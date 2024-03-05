@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679007550491",
+    "project_id": "agvaapp",
+    "storage_bucket": "agvaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679007550491:android:3a7d4bfafbaaa9f1e78cbe",
+        "android_client_info": {
+          "package_name": "com.example.agva_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGeXq1HUM6_idigSAbWHolMNCdbjXTFJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

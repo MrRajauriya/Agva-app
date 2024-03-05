@@ -1,0 +1,12 @@
+ 
+ # run in your terminal
+ dart pub global activate flutterfire_cli
+
+ # set path to mac profile / Environment variable
+ export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+ # for setup firebase app configuration
+ flutterfire configure  
+
+# To get inApp Installation ID 
+ adb logcat | grep 'InAppMessaging' 
